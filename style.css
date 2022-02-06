@@ -1,0 +1,40 @@
+	#navbar1 {
+		height:60px;
+		position: fixed;
+		bottom: 0px;
+		left:0%;
+		padding-top: 5px;
+		width: 100%;
+		border-radius:0px 0px 0px 0px;
+		display: block;
+	  transition: bottom 0.3s;
+		z-index:6;
+     background-image: url("https://i.postimg.cc/wjKBYYzm/Pics-Art-09-24-02-09-28.png");
+   background-size: 100% 100%;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2);
+}
+
+		
+	#navbar1 a {
+		width:20%;
+		float: left;
+		display: block;
+		color: #000;
+		text-align: center;
+		padding-top: 0px;
+		text-decoration: none;
+		font-size: 14px;
+		font-family:Arial;
+		color:black;
+	}
+	#navbar1 a:hover {
+		color:#2e99a5 ;
+		cursor:none;
+}
+#strip-navbar1 {
+width:30%;
+height:auto;
+margin-top:-30px;
+}
